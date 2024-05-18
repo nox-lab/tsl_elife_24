@@ -1,0 +1,4 @@
+RDS_fits/
+extras/*
+model_fit_analysis/output/cs_results/sig_draws_cond.csv
+model_fit_analysis/output/cs_results/gr_draws_cond.csv

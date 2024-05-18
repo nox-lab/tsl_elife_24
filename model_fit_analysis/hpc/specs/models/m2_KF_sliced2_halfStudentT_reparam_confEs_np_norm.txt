@@ -1,0 +1,2 @@
+stanParamList;c('psi','eta','xi','E0','w0','cs')
+test;test

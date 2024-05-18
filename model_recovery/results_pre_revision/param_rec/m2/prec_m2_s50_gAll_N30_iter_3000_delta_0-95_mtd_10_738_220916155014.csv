@@ -1,0 +1,2 @@
+"model","group","s_iter","seed","Nsubj","alpha","eta","E0","cs"
+"m2_RL_sliced2_halfStudentT_reparam_confEs_np_norm","All",50,90595,30,0.843690237998312,0.996689724521813,0.723253532429882,0.543731629539259

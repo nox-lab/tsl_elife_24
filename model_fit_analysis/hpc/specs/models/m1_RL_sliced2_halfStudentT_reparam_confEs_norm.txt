@@ -1,0 +1,2 @@
+stanParamList;c('E0','alpha','gam','eta','cs')
+test;test

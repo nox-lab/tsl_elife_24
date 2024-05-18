@@ -1,0 +1,5 @@
+stanCores;4
+stanIters;6000
+stanWarmup;3000
+stanAdaptDelta;0.95
+stanMTD;11
