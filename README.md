@@ -1,6 +1,6 @@
 # Code for the relevant analysis and results:
 ### "Statistical learning shapes pain perception and prediction independently of external cues"
-Onysk, J., Whitefield, M., Gregory, N., Jain, M., Turner, G., Seymour, B., Mancini, F. (2023). eLife. https://doi.org/10.7554/eLife.90634.1
+Onysk, J., Whitefield, M., Gregory, N., Jain, M., Turner, G., Seymour, B., Mancini, F. (2024). eLife. https://doi.org/10.7554/eLife.90634.2
 
 ## 1 - data_collection
 
