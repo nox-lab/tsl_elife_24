@@ -25,3 +25,7 @@ Contains code that execute model and parameter recovery analysis ('mp_recovery.R
 ## 5 - Figures
 
 Contain all the figures from the manuscript and the supplement.
+
+---------------
+
+Full dataset, inlucidng RStan RDS fit objects can be found on Zenodo: https://zenodo.org/records/11394627
